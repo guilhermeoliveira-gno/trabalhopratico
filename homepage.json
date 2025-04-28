@@ -1,0 +1,139 @@
+{
+    "lugares": [
+      {
+        "id": 1,
+        "titulo": "Itália",
+        "descricao": "A Itália é um país do sul da Europa, famoso pela sua história, arte, culinária e paisagens. É o berço do Império Romano e do Renascimento, com cidades icônicas como Roma, Veneza e Florença.",
+        "imagem_principal": "imgs/italia.png",
+        "destaque": true,
+        "conteudo": "A Itália é um dos destinos mais encantadores da Europa, perfeita para quem ama arte, história, boa comida e paisagens inesquecíveis. De Roma a Veneza, passando por Florença, Toscana e Costa Amalfitana, o país oferece experiências únicas em cada região.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/fontana.jpg", "descricao": "Fontana di Trevi" },
+          { "id": 2, "src": "imgs/coliseu.jpg", "descricao": "Coliseu Romano" },
+          { "id": 3, "src": "imgs/pisa.jpg", "descricao": "Torre de Pisa" }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "França",
+        "descricao": "Conhecida pela Torre Eiffel, vinhos e culinária refinada, a França é um dos países mais visitados do mundo.",
+        "imagem_principal": "imgs/franca.png",
+        "destaque": true,
+        "conteudo": "A França é sinônimo de charme e cultura. De Paris às vinícolas da Borgonha, o país encanta turistas do mundo todo.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/eiffel.jpg", "descricao": "Torre Eiffel" },
+          { "id": 2, "src": "imgs/louvre.jpg", "descricao": "Museu do Louvre" }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Japão",
+        "descricao": "Misturando tradição e modernidade, o Japão encanta com seus templos, cerejeiras e tecnologia de ponta.",
+        "imagem_principal": "imgs/japao.png",
+        "destaque": true,
+        "conteudo": "O Japão oferece uma jornada única, com cultura milenar e cidades futurísticas, como Tóquio e Kyoto.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/kyoto.jpg", "descricao": "Templo de Kyoto" },
+          { "id": 2, "src": "imgs/cerejeira.jpg", "descricao": "Cerejeiras em flor" }
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "Egito",
+        "descricao": "O Egito fascina com suas pirâmides, templos antigos e história milenar.",
+        "imagem_principal": "imgs/egito.png",
+        "destaque": false,
+        "conteudo": "O Egito é um tesouro arqueológico, com monumentos icônicos como as Pirâmides de Gizé e o Vale dos Reis.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/piramide.jpg", "descricao": "Pirâmides de Gizé" },
+          { "id": 2, "src": "imgs/esfinge.jpg", "descricao": "Esfinge de Gizé" }
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Brasil",
+        "descricao": "Com praias paradisíacas e florestas exuberantes, o Brasil é um país de diversidade impressionante.",
+        "imagem_principal": "imgs/brasil.png",
+        "destaque": false,
+        "conteudo": "Do Rio de Janeiro à Amazônia, o Brasil é repleto de paisagens deslumbrantes e uma cultura vibrante.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/cristo.jpg", "descricao": "Cristo Redentor" },
+          { "id": 2, "src": "imgs/noronha.jpg", "descricao": "Fernando de Noronha" }
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Estados Unidos",
+        "descricao": "Grandes cidades, parques naturais e uma infinidade de atrações definem os EUA.",
+        "imagem_principal": "imgs/eua.png",
+        "destaque": false,
+        "conteudo": "Nova York, Califórnia e parques como o Grand Canyon oferecem experiências para todos os gostos.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/ny.jpg", "descricao": "Nova York" },
+          { "id": 2, "src": "imgs/grandcanyon.jpg", "descricao": "Grand Canyon" }
+        ]
+      },
+      {
+        "id": 7,
+        "titulo": "Grécia",
+        "descricao": "Berço da civilização ocidental, a Grécia é famosa por suas ilhas e sítios históricos.",
+        "imagem_principal": "imgs/grecia.png",
+        "destaque": false,
+        "conteudo": "Explore Atenas, Santorini e Creta, e descubra a beleza do Mediterrâneo e da história antiga.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/atenas.jpg", "descricao": "Acrópole de Atenas" },
+          { "id": 2, "src": "imgs/santorini.jpg", "descricao": "Ilha de Santorini" }
+        ]
+      },
+      {
+        "id": 8,
+        "titulo": "Austrália",
+        "descricao": "A Austrália encanta com praias, deserto e cidades cosmopolitas como Sydney.",
+        "imagem_principal": "imgs/australia.png",
+        "destaque": false,
+        "conteudo": "Visite a Grande Barreira de Coral, a Ópera de Sydney e descubra a vida selvagem única do país.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/sydney.jpg", "descricao": "Ópera de Sydney" },
+          { "id": 2, "src": "imgs/barreira.jpg", "descricao": "Grande Barreira de Coral" }
+        ]
+      },
+      {
+        "id": 9,
+        "titulo": "África do Sul",
+        "descricao": "Safáris, montanhas e cultura vibrante esperam por você na África do Sul.",
+        "imagem_principal": "imgs/africa.png",
+        "destaque": false,
+        "conteudo": "Aventure-se em safáris incríveis e explore a Cidade do Cabo e a Table Mountain.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/tablemountain.jpg", "descricao": "Table Mountain" },
+          { "id": 2, "src": "imgs/safari.jpg", "descricao": "Safári no Kruger Park" }
+        ]
+      },
+      {
+        "id": 10,
+        "titulo": "Portugal",
+        "descricao": "Com uma rica herança histórica, belas praias e cidades encantadoras como Lisboa e Porto, Portugal é um destino imperdível.",
+        "imagem_principal": "imgs/portugal.png",
+        "destaque": false,
+        "conteudo": "Portugal combina tradição e modernidade em suas cidades históricas, praias do Algarve e vinícolas do Douro. Uma viagem repleta de cultura e gastronomia.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/lisboa.jpg", "descricao": "Rua histórica de Lisboa" },
+          { "id": 2, "src": "imgs/porto.jpg", "descricao": "Ribeira do Porto" }
+        ]
+      },
+      {
+        "id": 11,
+        "titulo": "Canadá",
+        "descricao": "Famoso por sua natureza exuberante, montanhas e cidades modernas, o Canadá encanta a todos.",
+        "imagem_principal": "imgs/canada.png",
+        "destaque": false,
+        "conteudo": "No Canadá, você encontra de tudo: parques como Banff, cataratas como Niagara Falls e cidades vibrantes como Toronto e Vancouver. Um paraíso para amantes da natureza e da diversidade.",
+        "imagens_complementares": [
+          { "id": 1, "src": "imgs/banff.jpg", "descricao": "Parque Nacional de Banff" },
+          { "id": 2, "src": "imgs/niagara.jpg", "descricao": "Cataratas do Niágara" }
+        ]
+      }
+      
+    ]
+  }
+  
