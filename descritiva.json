@@ -1,0 +1,196 @@
+{
+    "lugares": [
+      {
+        "id": 1,
+        "titulo": "Itália",
+        "subtitulo": "Itália e suas magias",
+        "imagem_detalhe": "imgs/italia.png",
+        "descricao_detalhada": "A Itália é um dos destinos mais encantadores da Europa, perfeita para quem ama arte, história, boa comida e paisagens inesquecíveis. De Roma a Veneza, passando por Florença, Toscana e Costa Amalfitana, o país oferece experiências únicas em cada região.",
+        "pontos_turisticos": [
+          {
+            "nome": "Fontana di Trevi",
+            "descricao": "A fonte mais famosa de Roma, conhecida por sua beleza e tradições."
+          },
+          {
+            "nome": "Coliseu",
+            "descricao": "O anfiteatro romano mais icônico, palco de lutas de gladiadores."
+          },
+          {
+            "nome": "Torre de Pisa",
+            "descricao": "A famosa torre inclinada, símbolo da arquitetura medieval."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "França",
+        "subtitulo": "França e seus encantos",
+        "imagem_detalhe": "imgs/franca.png",
+        "descricao_detalhada": "Conhecida por sua cultura vibrante, arte, moda e gastronomia, a França é um dos destinos mais icônicos da Europa.",
+        "pontos_turisticos": [
+          {
+            "nome": "Torre Eiffel",
+            "descricao": "Símbolo de Paris, uma maravilha arquitetônica do século XIX."
+          },
+          {
+            "nome": "Museu do Louvre",
+            "descricao": "Lar da Mona Lisa e um dos museus mais importantes do mundo."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Japão",
+        "subtitulo": "Tradição e Futurismo",
+        "imagem_detalhe": "imgs/japao.png",
+        "descricao_detalhada": "O Japão mistura tradição milenar e tecnologia de ponta, oferecendo experiências únicas em cada cidade.",
+        "pontos_turisticos": [
+          {
+            "nome": "Templo de Kyoto",
+            "descricao": "Um dos templos mais antigos e preservados do Japão."
+          },
+          {
+            "nome": "Cerejeiras em Flor",
+            "descricao": "Espetáculo natural que ocorre na primavera japonesa."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "Egito",
+        "subtitulo": "Mistérios do Antigo Egito",
+        "imagem_detalhe": "imgs/egito.png",
+        "descricao_detalhada": "Um país de história milenar, com maravilhas arqueológicas como pirâmides, templos e múmias.",
+        "pontos_turisticos": [
+          {
+            "nome": "Pirâmides de Gizé",
+            "descricao": "As construções mais famosas e antigas ainda existentes."
+          },
+          {
+            "nome": "Templo de Luxor",
+            "descricao": "Complexo monumental dedicado aos deuses egípcios."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Brasil",
+        "subtitulo": "Natureza e Cultura",
+        "imagem_detalhe": "imgs/brasil.png",
+        "descricao_detalhada": "O Brasil encanta com suas belezas naturais, música vibrante e um povo caloroso.",
+        "pontos_turisticos": [
+          {
+            "nome": "Cristo Redentor",
+            "descricao": "Uma das 7 maravilhas do mundo moderno no Rio de Janeiro."
+          },
+          {
+            "nome": "Fernando de Noronha",
+            "descricao": "Um dos arquipélagos mais bonitos e preservados do mundo."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Estados Unidos",
+        "subtitulo": "Diversidade e Grandiosidade",
+        "imagem_detalhe": "imgs/eua.png",
+        "descricao_detalhada": "Os EUA oferecem uma imensa variedade de atrações, de metrópoles a maravilhas naturais.",
+        "pontos_turisticos": [
+          {
+            "nome": "Estátua da Liberdade",
+            "descricao": "O ícone da liberdade em Nova York."
+          },
+          {
+            "nome": "Grand Canyon",
+            "descricao": "Impressionante cânion esculpido pelo Rio Colorado."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "titulo": "Grécia",
+        "subtitulo": "Berço da Civilização",
+        "imagem_detalhe": "imgs/grecia.png",
+        "descricao_detalhada": "Com ruínas antigas e ilhas paradisíacas, a Grécia é um convite à história e à beleza natural.",
+        "pontos_turisticos": [
+          {
+            "nome": "Acrópole de Atenas",
+            "descricao": "O coração da antiga civilização grega."
+          },
+          {
+            "nome": "Santorini",
+            "descricao": "Ilha famosa por suas casas brancas e vistas incríveis."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "titulo": "Austrália",
+        "subtitulo": "Aventuras e Natureza",
+        "imagem_detalhe": "imgs/australia.png",
+        "descricao_detalhada": "A Austrália oferece praias deslumbrantes, desertos infinitos e uma cultura vibrante.",
+        "pontos_turisticos": [
+          {
+            "nome": "Ópera de Sydney",
+            "descricao": "Obra-prima arquitetônica à beira da baía."
+          },
+          {
+            "nome": "Grande Barreira de Coral",
+            "descricao": "O maior recife de coral do mundo."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "titulo": "África do Sul",
+        "subtitulo": "Safáris e Paisagens",
+        "imagem_detalhe": "imgs/africa.png",
+        "descricao_detalhada": "Com safáris emocionantes e cidades multiculturais, a África do Sul é um destino completo.",
+        "pontos_turisticos": [
+          {
+            "nome": "Table Mountain",
+            "descricao": "Montanha icônica com vista para a Cidade do Cabo."
+          },
+          {
+            "nome": "Kruger Park",
+            "descricao": "Uma das maiores reservas de vida selvagem da África."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "titulo": "Portugal",
+        "subtitulo": "Encantos Lusitanos",
+        "imagem_detalhe": "imgs/portugal.png",
+        "descricao_detalhada": "Portugal mistura tradição, culinária deliciosa e paisagens deslumbrantes em cada canto.",
+        "pontos_turisticos": [
+          {
+            "nome": "Lisboa",
+            "descricao": "Capital vibrante e cheia de história."
+          },
+          {
+            "nome": "Porto",
+            "descricao": "Cidade famosa pelo vinho e sua arquitetura única."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "titulo": "Canadá",
+        "subtitulo": "Natureza e Modernidade",
+        "imagem_detalhe": "imgs/canada.png",
+        "descricao_detalhada": "O Canadá impressiona com seus parques naturais, cidades modernas e qualidade de vida.",
+        "pontos_turisticos": [
+          {
+            "nome": "Banff National Park",
+            "descricao": "Montanhas e lagos de tirar o fôlego."
+          },
+          {
+            "nome": "Cataratas do Niágara",
+            "descricao": "Famosa queda d'água entre o Canadá e os EUA."
+          }
+        ]
+      }
+    ]
+  }
+  
