@@ -1,0 +1,29 @@
+#logo{
+    max-width: 200px;
+    }
+    .list-group{
+        width: 200px;
+    }
+    
+    #gerais{
+        display: flex;
+    }
+    img{
+        max-width: 500px;
+        height: auto;
+        width: 100%;
+    }
+    .card{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: flex;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    #cardnavio{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: flex;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
